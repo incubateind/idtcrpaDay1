@@ -1,6 +1,6 @@
 Challenges
 
-The participants can select one of the below mentioned challenges in which they will start working from Day 1 and then submit their work at the end of the Camp by generating a PR to this repository.
+The participants have to complete the below mentioned challenges in which they will start working from Day 1 and then submit their work at the end of the day 1 by forking this repo & then uloading all the files and generating a PR to this repository.
 
 Day 1 (Challenge)
 

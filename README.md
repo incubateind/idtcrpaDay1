@@ -1,14 +1,9 @@
-Challenges
+# preview Video :
 
-The participants can select one of the below mentioned challenges in which they will start working from Day 1 and then submit their work at the end of the Camp by generating a PR to this repository.
+[PREVEIEW](https://user-images.githubusercontent.com/76029249/115122660-bb5a3100-9fd6-11eb-964e-e2d5d2d51907.mp4)
 
-Day 1 (Challenge)
 
-**Data entry automation with Google Form and Excel:**
-1. Download **InputData.xlsx**
-2. [InputData.xlsx](https://github.com/incubateind/idtcrpaDay2/files/6326484/InputData.xlsx)
-3. Read given input Excel File. 
-4. Create a workflow to enter the data from Excel row by row in Google form and submit response for each row.
-5. **Google Form Link:** https://forms.gle/CDY7WRKe7isKMLuC8
-6. After completion of data entry write **"Completed"** status in input Excel Status Column.
-7. Then finally print the total execution time and no of completed transactions in output panel.
+## preview images :
+
+![Alt text](  https://user-images.githubusercontent.com/76029249/115122698-f197b080-9fd6-11eb-8df1-5f2c22b2b703.jpeg "screenhots")
+![Alt text]( https://user-images.githubusercontent.com/76029249/115122754-302d6b00-9fd7-11eb-90f4-7d2a133da85e.jpeg "screenhots")

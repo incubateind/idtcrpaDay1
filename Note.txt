@@ -1,0 +1,1 @@
+After the things set, i run the process. Then it is going to open the form and type into automatically based on the rows of the excel sheet. When i click the submit button, it's opened a same form and typed into data of 2nd row automatically.This process gonna happened again and again until the last row. 
